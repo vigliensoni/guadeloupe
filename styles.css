@@ -22,6 +22,9 @@ body {
   -webkit-user-select: none;
   user-select: none;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  background-image: url("./img/cascada-1.jpg");
+  background-repeat: repeat;
+  background-position: center top; 
 }
 
 /* Top Info */
