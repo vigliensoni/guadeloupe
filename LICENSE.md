@@ -1,3 +1,4 @@
+Copyright (c) 2023 Gabriel Vigliensoni
 Copyright (c) 2013-2020 James Simpson and GoldFire Studios, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
