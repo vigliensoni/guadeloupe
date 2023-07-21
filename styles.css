@@ -18,7 +18,7 @@ body {
   background: -webkit-linear-gradient(-45deg, #bb71f3 0%, #3d4d91 100%);
   background: linear-gradient(135deg, #bb71f3 0%, #3d4d91 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bb71f3', endColorstr='#3d4d91', GradientType=1);
-  font-family: "Helvetica Neue", "Futura", "Trebuchet MS", Arial;
+  font-family: "Georgia", "Helvetica Neue", "Futura", "Trebuchet MS", Arial;
   -webkit-user-select: none;
   user-select: none;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
@@ -35,11 +35,11 @@ body {
   line-height: 34px;
   height: 34px;
   text-align: center;
-  font-size: 34px;
+  font-size: 64px;
   opacity: 0.9;
   font-weight: 300;
   color: #fff;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.33);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
 }
 #timer {
   position: absolute;
@@ -50,7 +50,7 @@ body {
   opacity: 0.9;
   font-weight: 300;
   color: #fff;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.33);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
 }
 #duration {
   position: absolute;
@@ -61,7 +61,7 @@ body {
   opacity: 0.5;
   font-weight: 300;
   color: #fff;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.33);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
 }
 
 /* Controls */
