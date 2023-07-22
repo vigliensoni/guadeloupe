@@ -272,22 +272,22 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
   {
-    title: 'Cigarra 1',
+    title: 'Cigarras uno',
     file: 'CIGARRA-1',
     howl: null
   },
   {
-    title: 'Pajaros 1',
+    title: 'Pájaros uno',
     file: 'PAJAROS-1',
     howl: null
   },
   {
-    title: 'Cigarra 2',
+    title: 'Cigarras dos',
     file: 'CIGARRA-2',
     howl: null
   },
   {
-    title: 'Pajaros 2',
+    title: 'Pájaros dos',
     file: 'PAJAROS-2',
     howl: null
   },
@@ -297,22 +297,22 @@ var player = new Player([
     howl: null
   },
   {
-    title: 'Cigarra 3',
+    title: 'Cigarras tres',
     file: 'CIGARRA-3',
     howl: null
   },
   {
-    title: 'Pajaros 3',
+    title: 'Pájaros tres',
     file: 'PAJAROS-3',
     howl: null
   },  
   {
-    title: 'Cigarra 4',
+    title: 'Cigarras cuatro',
     file: 'CIGARRA-4',
     howl: null
   },
   {
-    title: 'Pajaros 4',
+    title: 'Pájaros cuatro',
     file: 'PAJAROS-4',
     howl: null
   }
