@@ -272,47 +272,47 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
   {
-    title: 'Cigarras uno',
+    title: 'Premye sikad',
     file: 'CIGARRA-1',
     howl: null
   },
   {
-    title: 'Pájaros uno',
+    title: 'Premye zwazo',
     file: 'PAJAROS-1',
     howl: null
   },
   {
-    title: 'Cigarras dos',
+    title: 'Dezyèm sikad',
     file: 'CIGARRA-2',
     howl: null
   },
   {
-    title: 'Pájaros dos',
+    title: 'Dezyèm zwazo',
     file: 'PAJAROS-2',
     howl: null
   },
   {
-    title: 'Bosque y lluvia',
+    title: 'Forè ak lapli',
     file: 'BOSQUE-LLUVIA',
     howl: null
   },
   {
-    title: 'Cigarras tres',
+    title: 'Twazyèm siga',
     file: 'CIGARRA-3',
     howl: null
   },
   {
-    title: 'Pájaros tres',
+    title: 'Twazyèm zwazo',
     file: 'PAJAROS-3',
     howl: null
   },  
   {
-    title: 'Cigarras cuatro',
+    title: 'Katriyèm siga',
     file: 'CIGARRA-4',
     howl: null
   },
   {
-    title: 'Pájaros cuatro',
+    title: 'Katriyèm zwazo',
     file: 'PAJAROS-4',
     howl: null
   }
